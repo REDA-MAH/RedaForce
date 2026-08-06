@@ -20,7 +20,7 @@ While studying common penetration testing workflows, I discovered that Hydra cou
 
 Rather than modifying an existing project, I decided to design my own solution from scratch.
 
-What began as a simple automation script gradually evolved into RedaForce—a browser-driven authentication framework capable of adapting to multiple Dahua login interface variants while providing a streamlined workflow for authorized laboratory assessments.
+What began as a simple automation script gradually evolved into RedaForce a browser-driven authentication framework capable of adapting to multiple Dahua login interface variants while providing a streamlined workflow for authorized laboratory assessments.
 
 The project became much more than writing Python code. It involved reverse engineering login behavior, studying different firmware interfaces, improving reliability across versions, and refining the user experience through multiple complete rewrites.
 
