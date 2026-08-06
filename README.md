@@ -205,4 +205,4 @@ Always obtain permission before testing systems or networks that you do not own 
 
 **REDA-MAH**
 
-This project represents my exploration of browser automation, network security, reverse engineering of web authentication workflows, and Python software engineering. It was developed as a personal research project while I was 15 years old and continues to evolve as I expand its capabilities.
+This project represents my exploration of browser automation, network security, reverse engineering of web authentication workflows, and Python software engineering as an ambitious Moroccan teenager. It was developed as a personal research project while I was 15 years old and continues to evolve as I expand its capabilities.
