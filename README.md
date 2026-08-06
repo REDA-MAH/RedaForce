@@ -75,7 +75,7 @@ This workflow reflects how the tool was designed and tested during home laborato
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/RedaForce.git
+git clone https://github.com/REDA-MAH/RedaForce.git
 cd RedaForce
 ```
 
