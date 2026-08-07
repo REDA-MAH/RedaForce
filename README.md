@@ -1,6 +1,6 @@
 # RedaForce
 
-> **A browser-driven authentication testing framework for Dahua web interfaces, built at age 15 after discovering the limitations of traditional tools such as Hydra during home laboratory security research.**
+> **A browser-driven authentication testing framework for Dahua web interfaces, built after discovering the limitations of traditional tools such as Hydra during home laboratory security research.**
 
 ## Overview
 
