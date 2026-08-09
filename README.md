@@ -189,7 +189,7 @@ Current limitations include:
 
 # Screenshots
 
-Screenshots are available in the `screenshots/` directory. (not available yet)
+Screenshots are available in the `screenshots/` directory. (not yet)
 
 ---
 
